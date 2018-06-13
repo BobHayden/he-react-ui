@@ -6973,20 +6973,11 @@ react-cosmos-playground@^4.4.0:
   resolved "https://registry.yarnpkg.com/react-cosmos-playground/-/react-cosmos-playground-4.4.0.tgz#d5f7ea300f63c3e52043f91b38c529c77739adca"
 
 react-cosmos-router-proxy@^4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/react-cosmos-router-proxy/-/react-cosmos-router-proxy-4.2.1.tgz#2497a754c8fd58d15565aa36d34c6caed5ae7230"
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/react-cosmos-router-proxy/-/react-cosmos-router-proxy-4.4.0.tgz#81f8f92741662deba7b7a87e3ba206ed8ee5fbdf"
   dependencies:
-    react-cosmos-shared "^4.2.1"
+    react-cosmos-shared "^4.4.0"
     url "^0.11.0"
-
-react-cosmos-shared@^4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/react-cosmos-shared/-/react-cosmos-shared-4.2.1.tgz#81641026928e9404de662626e3f0e86a318ac539"
-  dependencies:
-    lodash.isplainobject "^4.0.6"
-    prop-types "^15.5.10"
-    resolve-from "^3.0.0"
-    slash "^1.0.0"
 
 react-cosmos-shared@^4.4.0:
   version "4.4.0"
