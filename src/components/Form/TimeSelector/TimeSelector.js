@@ -202,7 +202,9 @@ class TimeSelector extends React.Component<Props, *> {
           <Icon className={style.clock} name="Clock" />
           <div className={style.options}>
             <ul>{this.generateList(hours, this.selectHour)}</ul>
-            {!hourly && <ul>{this.generateList(minutes, this.selectMinute)}</ul>}
+            {!hourly && (
+              <ul>{this.generateList(minutes, this.selectMinute)}</ul>
+            )}
           </div>
         </div>
         {error && (
