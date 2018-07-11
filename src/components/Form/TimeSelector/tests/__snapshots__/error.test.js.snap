@@ -1016,11 +1016,9 @@ exports[`<OnClickOutside(TimeSelector) /> rendered correctly with error fixture 
         className="errorMessage"
         error={true}
         htmlFor="demo"
-        onChange={[Function]}
       >
         <div
           className="label error errorMessage"
-          onChange={[Function]}
         >
           <Icon
             className="icon"

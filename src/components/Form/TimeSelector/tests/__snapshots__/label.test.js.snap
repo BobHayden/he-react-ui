@@ -389,11 +389,9 @@ exports[`<OnClickOutside(TimeSelector) /> rendered correctly with label fixture 
         className="label"
         error={false}
         htmlFor="demo"
-        onChange={[Function]}
       >
         <div
           className="label label"
-          onChange={[Function]}
         >
           <label
             htmlFor="demo"
